@@ -3,7 +3,9 @@
 [link](seminar/webtechconcert/)
 # 2017-06-25
 <strong>ERD를 이용한 DB Modeling</strong><br>
+
 [link](seminar/DB Modeling/)
 # 2017-06-03
 <strong>TypeScript with MSP</strong><br>
+
 [link](conference/TypeScript with MSP/)
