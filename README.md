@@ -1,6 +1,9 @@
 # 2017-08-19
 <strong>Web Tech Concert</strong><br>
 [link](seminar/webtechconcert/)
+# 2017-08-10
+<strong>Recruiting Day</strong><br>
+[link](conference/Recruting%20Day/)
 # 2017-06-25
 <strong>ERD를 이용한 DB Modeling</strong><br>
 [link](seminar/DB%20Modeling/)
