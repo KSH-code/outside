@@ -1,3 +1,7 @@
+# 2017-10-21
+**FEConf**
+
+[link](conference/feconf/)
 # 2017-08-19
 <strong>Web Tech Concert</strong><br>
 [link](seminar/webtechconcert/)
