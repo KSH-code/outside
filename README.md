@@ -14,3 +14,6 @@
 # 2017-06-03
 <strong>TypeScript with MSP</strong><br>
 [link](conference/TypeScript%20with%20MSP/)
+# 2017-10-28
+<strong>Software Maestro 100+</strong><br>
+[link](conference/softwaremaestro/)
