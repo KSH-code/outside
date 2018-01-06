@@ -1,4 +1,8 @@
-# 2017-11-21
+# 2018-01-25
+**Functional JS**
+
+[link](conference/functionaljs/)
+# 2017-11-25
 **Microsoft Developer Conference**
 
 [link](conference/microsoft/)
